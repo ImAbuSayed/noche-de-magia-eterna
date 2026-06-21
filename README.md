@@ -15,7 +15,7 @@
 | **Written On** | June 21, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/noche-de-magia-eterna/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Get License For Noche de magia eterna](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/noche-de-magia-eterna/) |
+| **Get License** | [Music Rights & Licensing for Noche de magia eterna](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/noche-de-magia-eterna/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -115,8 +115,8 @@ This song is an original creative work by Abu Sayed. All lyrics, melody, and com
 | Verification Detail | Information |
 |:-------------------|:------------|
 | **Author** | Abu Sayed |
-| **Version** | `v1` |
-| **SHA-256 Hash** | `c844b62b2eb8c5d38694fcd97e49f63de3f27e01e7a48fb3a21eb1798bfff91e` |
+| **Version** | `v2` |
+| **SHA-256 Hash** | `0bb20710a51d7bb9076aeb659b1ac6984f3ed23708646851df9a0bf433b1a763` |
 | **Timestamp** | June 22, 2026 |
 
 See [LICENSE.md](./LICENSE.md) for full terms and conditions.
