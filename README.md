@@ -12,10 +12,10 @@
 |-------|---------|
 | **Title** | Noche de magia eterna |
 | **Written By** | [Abu Sayed](https://abusayed.com.bd/) |
-| **Written On** | June 09, 2026 |
+| **Written On** | June 21, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/noche-de-magia-eterna/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Secure Licensing Rights for Noche de magia eterna](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/noche-de-magia-eterna/) |
+| **Get License** | [Get License For Noche de magia eterna](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/noche-de-magia-eterna/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,10 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> Mami tú brillas más que la ciudad entera
-> Me tienes loco buscando tu magia eterna
-> Soñando con tus besos de Madrid a Barcelona
-> Eres la dueña del club y mi única corona
+> Noche de magia eterna, tú y yo sin frenos
+> Bajo la luna bailamos en el cielo
+> Tu cuerpo llama, responde mi fuego
+> Esta noche es nuestra, no hay miedo
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
